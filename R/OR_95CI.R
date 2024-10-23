@@ -4,7 +4,7 @@
 #' @param se Standard error of the predictor
 #' @param siglevel Significance level
 #' @param roundto Number of decimal places to round to
-#'
+#' @importFrom stats qnorm
 #' @export
 #'
 
